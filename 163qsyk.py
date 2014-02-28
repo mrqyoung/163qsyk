@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+#-*-coding:utf-8-*-
+#
+# Author: Mr.Q.Young, 2013-12-12, v0.1
+
 import urllib.request as ur
 import os
 import json
